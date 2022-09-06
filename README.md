@@ -28,7 +28,7 @@
  
 
  
- ![Snake animation](https://github.com/jessicaandreoli/jessicaandreoli/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/jessicaandreoli/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 

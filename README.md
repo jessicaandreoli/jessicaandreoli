@@ -1,12 +1,12 @@
 ### Olá👋eu sou a Jéssica!
 
-<div align= "center">
+<div align="center">
   <a href="https://github.com/jessicaandreoli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaandreoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaandreoli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align= "center">
+<div>
   <img align="center" alt="Jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jessica-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jessica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,7 +19,7 @@
 
  ##
  
-<div align= "center" > 
+<div> 
  <a href="https://linkedin.com/in/jéssica-andreoli-de-oliveira-543bb915a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.com/channels/@me/830411439951970315" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://codepen.io/Jessica-Andreoli" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
